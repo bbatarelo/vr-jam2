@@ -1,0 +1,1259 @@
+fileFormatVersion: 2
+guid: e5384324f24681d4caca9870b8bfe6da
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: base57a
+    100002: Component_1
+    100004: Component_10
+    100006: Component_10 1
+    100008: Component_10 2
+    100010: Component_10 3
+    100012: Component_103
+    100014: Component_13
+    100016: Component_13 1
+    100018: Component_13 2
+    100020: Component_13 3
+    100022: Component_14
+    100024: Component_15
+    100026: Component_156
+    100028: Component_19
+    100030: Component_19 1
+    100032: Component_2
+    100034: Component_20
+    100036: Component_21
+    100038: Component_24
+    100040: Component_25
+    100042: Component_26
+    100044: Component_28
+    100046: Component_29
+    100048: Component_3
+    100050: Component_30
+    100052: Component_30 1
+    100054: Component_31
+    100056: Component_31 1
+    100058: Component_31 2
+    100060: Component_31 3
+    100062: Component_32
+    100064: Component_33
+    100066: Component_34
+    100068: Component_35
+    100070: Component_35 1
+    100072: Component_37
+    100074: Component_38
+    100076: Component_40
+    100078: Component_41
+    100080: Component_42
+    100082: Component_43
+    100084: Component_44
+    100086: Component_44 1
+    100088: Component_45
+    100090: Component_6
+    100092: Component_7
+    100094: Component_7 1
+    100096: Component_9
+    100098: Component_9 1
+    100100: DETAIL.dwg
+    100102: door_jam.dwg
+    100104: Group_4
+    100106: Group_4 1
+    100108: ID1002
+    100110: ID1006
+    100112: ID1010
+    100114: ID1014
+    100116: ID1018
+    100118: ID1022
+    100120: ID1026
+    100122: ID1030
+    100124: ID1034
+    100126: ID1038
+    100128: ID104
+    100130: ID1042
+    100132: ID1046
+    100134: ID1050
+    100136: ID1054
+    100138: ID1058
+    100140: ID1062
+    100142: ID1066
+    100144: ID1070
+    100146: ID1074
+    100148: ID1078
+    100150: ID117
+    100152: ID125
+    100154: ID133
+    100156: ID141
+    100158: ID149
+    100160: ID157
+    100162: ID165
+    100164: ID173
+    100166: ID181
+    100168: ID189
+    100170: ID197
+    100172: ID205
+    100174: ID213
+    100176: ID221
+    100178: ID229
+    100180: ID237
+    100182: ID245
+    100184: ID253
+    100186: ID266
+    100188: ID272
+    100190: ID284
+    100192: ID290
+    100194: ID298
+    100196: ID306
+    100198: ID314
+    100200: ID322
+    100202: ID340
+    100204: ID375
+    100206: ID383
+    100208: ID391
+    100210: ID399
+    100212: ID427
+    100214: ID451
+    100216: ID475
+    100218: ID516
+    100220: ID530
+    100222: ID554
+    100224: ID586
+    100226: ID590
+    100228: ID623
+    100230: ID623 1
+    100232: ID623 2
+    100234: ID623 3
+    100236: ID63
+    100238: ID665
+    100240: ID671
+    100242: ID679
+    100244: ID687
+    100246: ID695
+    100248: ID703
+    100250: ID711
+    100252: ID715
+    100254: ID734
+    100256: ID75
+    100258: ID764
+    100260: ID785
+    100262: ID785 1
+    100264: ID79
+    100266: ID801
+    100268: ID801 1
+    100270: ID852
+    100272: ID852 1
+    100274: ID852 2
+    100276: ID852 3
+    100278: ID866
+    100280: ID866 1
+    100282: ID866 2
+    100284: ID866 3
+    100286: ID880
+    100288: ID880 1
+    100290: ID888
+    100292: ID888 1
+    100294: ID896
+    100296: ID896 1
+    100298: ID900
+    100300: ID900 1
+    100302: ID91
+    100304: ID916
+    100306: ID916 1
+    100308: ID924
+    100310: ID924 1
+    100312: ID932
+    100314: ID932 1
+    100316: ID936
+    100318: ID936 1
+    100320: ID940
+    100322: ID940 1
+    100324: ID960
+    100326: ID966
+    100328: ID970
+    100330: ID974
+    100332: ID978
+    100334: ID982
+    100336: ID986
+    100338: ID990
+    100340: ID994
+    100342: ID998
+    100344: instance_0
+    100346: instance_1
+    100348: instance_10
+    100350: instance_11
+    100352: instance_12
+    100354: instance_13
+    100356: instance_14
+    100358: instance_15
+    100360: instance_16
+    100362: instance_17
+    100364: instance_18
+    100366: instance_19
+    100368: instance_2
+    100370: instance_20
+    100372: instance_21
+    100374: instance_22
+    100376: instance_23
+    100378: instance_24
+    100380: instance_25
+    100382: instance_26
+    100384: instance_27
+    100386: instance_28
+    100388: instance_29
+    100390: instance_3
+    100392: instance_30
+    100394: instance_31
+    100396: instance_32
+    100398: instance_33
+    100400: instance_34
+    100402: instance_35
+    100404: instance_36
+    100406: instance_37
+    100408: instance_38
+    100410: instance_39
+    100412: instance_4
+    100414: instance_40
+    100416: instance_41
+    100418: instance_42
+    100420: instance_43
+    100422: instance_44
+    100424: instance_45
+    100426: instance_46
+    100428: instance_47
+    100430: instance_48
+    100432: instance_49
+    100434: instance_5
+    100436: instance_50
+    100438: instance_51
+    100440: instance_52
+    100442: instance_53
+    100444: instance_54
+    100446: instance_55
+    100448: instance_55 1
+    100450: instance_56
+    100452: instance_57
+    100454: instance_58
+    100456: instance_59
+    100458: instance_6
+    100460: instance_60
+    100462: instance_61
+    100464: instance_62
+    100466: instance_63
+    100468: instance_64
+    100470: instance_65
+    100472: instance_66
+    100474: instance_67
+    100476: instance_68
+    100478: instance_69
+    100480: instance_7
+    100482: instance_70
+    100484: instance_71
+    100486: instance_72
+    100488: instance_73
+    100490: instance_74
+    100492: instance_75
+    100494: instance_8
+    100496: instance_9
+    100498: PROFILE.dwg_2
+    100500: PROFILE.dwg_2 1
+    100502: PROFILE.dwg_4
+    100504: PROFILE.dwg_4 1
+    100506: PROFILE.dwg_4 2
+    100508: PROFILE.dwg_5
+    100510: PROFILE.dwg_5 1
+    100512: PROFILE.dwg_5 2
+    100514: PROFILE.dwg_5 3
+    100516: PROFILE.dwg_6
+    100518: PROFILE.dwg_6 1
+    100520: PROFILE.dwg_6 2
+    100522: PROFILE.dwg_6 3
+    100524: PROFILE.dwg_7
+    100526: PROFILE.dwg_7 1
+    100528: PROFILE.dwg_7 2
+    100530: PROFILE.dwg_7 3
+    100532: PROFILE.dwg_8
+    100534: PROFILE.dwg_8 1
+    100536: PROFILE.dwg_8 2
+    100538: PROFILE.dwg_8 3
+    100540: rail
+    100542: rail_1
+    100544: //RootNode
+    100546: ID1001
+    100548: ID1005
+    100550: ID1009
+    100552: ID1013
+    100554: ID1017
+    100556: ID1021
+    100558: ID1025
+    100560: ID1029
+    100562: ID1033
+    100564: ID1037
+    100566: ID1041
+    100568: ID1045
+    100570: ID1049
+    100572: ID1053
+    100574: ID1057
+    100576: ID1061
+    100578: ID1065
+    100580: ID1069
+    100582: ID1073
+    100584: ID511
+    100586: ID525
+    100588: ID549
+    100590: ID581
+    100592: ID585
+    100594: ID618
+    100596: ID618 1
+    100598: ID618 2
+    100600: ID618 3
+    100602: ID660
+    100604: ID666
+    100606: ID674
+    100608: ID682
+    100610: ID690
+    100612: ID698
+    100614: ID706
+    100616: ID710
+    100618: ID729
+    100620: ID759
+    100622: ID780
+    100624: ID780 1
+    100626: ID796
+    100628: ID796 1
+    100630: ID847
+    100632: ID847 1
+    100634: ID847 2
+    100636: ID847 3
+    100638: ID861
+    100640: ID861 1
+    100642: ID861 2
+    100644: ID861 3
+    100646: ID875
+    100648: ID875 1
+    100650: ID883
+    100652: ID883 1
+    100654: ID891
+    100656: ID891 1
+    100658: ID895
+    100660: ID895 1
+    100662: ID911
+    100664: ID911 1
+    100666: ID919
+    100668: ID919 1
+    100670: ID927
+    100672: ID927 1
+    100674: ID931
+    100676: ID931 1
+    100678: ID935
+    100680: ID935 1
+    100682: ID955
+    100684: ID961
+    100686: ID965
+    100688: ID969
+    100690: ID973
+    100692: ID977
+    100694: ID981
+    100696: ID985
+    100698: ID989
+    100700: ID993
+    100702: ID997
+    400000: base57a
+    400002: Component_1
+    400004: Component_10
+    400006: Component_10 1
+    400008: Component_10 2
+    400010: Component_10 3
+    400012: Component_103
+    400014: Component_13
+    400016: Component_13 1
+    400018: Component_13 2
+    400020: Component_13 3
+    400022: Component_14
+    400024: Component_15
+    400026: Component_156
+    400028: Component_19
+    400030: Component_19 1
+    400032: Component_2
+    400034: Component_20
+    400036: Component_21
+    400038: Component_24
+    400040: Component_25
+    400042: Component_26
+    400044: Component_28
+    400046: Component_29
+    400048: Component_3
+    400050: Component_30
+    400052: Component_30 1
+    400054: Component_31
+    400056: Component_31 1
+    400058: Component_31 2
+    400060: Component_31 3
+    400062: Component_32
+    400064: Component_33
+    400066: Component_34
+    400068: Component_35
+    400070: Component_35 1
+    400072: Component_37
+    400074: Component_38
+    400076: Component_40
+    400078: Component_41
+    400080: Component_42
+    400082: Component_43
+    400084: Component_44
+    400086: Component_44 1
+    400088: Component_45
+    400090: Component_6
+    400092: Component_7
+    400094: Component_7 1
+    400096: Component_9
+    400098: Component_9 1
+    400100: DETAIL.dwg
+    400102: door_jam.dwg
+    400104: Group_4
+    400106: Group_4 1
+    400108: ID1002
+    400110: ID1006
+    400112: ID1010
+    400114: ID1014
+    400116: ID1018
+    400118: ID1022
+    400120: ID1026
+    400122: ID1030
+    400124: ID1034
+    400126: ID1038
+    400128: ID104
+    400130: ID1042
+    400132: ID1046
+    400134: ID1050
+    400136: ID1054
+    400138: ID1058
+    400140: ID1062
+    400142: ID1066
+    400144: ID1070
+    400146: ID1074
+    400148: ID1078
+    400150: ID117
+    400152: ID125
+    400154: ID133
+    400156: ID141
+    400158: ID149
+    400160: ID157
+    400162: ID165
+    400164: ID173
+    400166: ID181
+    400168: ID189
+    400170: ID197
+    400172: ID205
+    400174: ID213
+    400176: ID221
+    400178: ID229
+    400180: ID237
+    400182: ID245
+    400184: ID253
+    400186: ID266
+    400188: ID272
+    400190: ID284
+    400192: ID290
+    400194: ID298
+    400196: ID306
+    400198: ID314
+    400200: ID322
+    400202: ID340
+    400204: ID375
+    400206: ID383
+    400208: ID391
+    400210: ID399
+    400212: ID427
+    400214: ID451
+    400216: ID475
+    400218: ID516
+    400220: ID530
+    400222: ID554
+    400224: ID586
+    400226: ID590
+    400228: ID623
+    400230: ID623 1
+    400232: ID623 2
+    400234: ID623 3
+    400236: ID63
+    400238: ID665
+    400240: ID671
+    400242: ID679
+    400244: ID687
+    400246: ID695
+    400248: ID703
+    400250: ID711
+    400252: ID715
+    400254: ID734
+    400256: ID75
+    400258: ID764
+    400260: ID785
+    400262: ID785 1
+    400264: ID79
+    400266: ID801
+    400268: ID801 1
+    400270: ID852
+    400272: ID852 1
+    400274: ID852 2
+    400276: ID852 3
+    400278: ID866
+    400280: ID866 1
+    400282: ID866 2
+    400284: ID866 3
+    400286: ID880
+    400288: ID880 1
+    400290: ID888
+    400292: ID888 1
+    400294: ID896
+    400296: ID896 1
+    400298: ID900
+    400300: ID900 1
+    400302: ID91
+    400304: ID916
+    400306: ID916 1
+    400308: ID924
+    400310: ID924 1
+    400312: ID932
+    400314: ID932 1
+    400316: ID936
+    400318: ID936 1
+    400320: ID940
+    400322: ID940 1
+    400324: ID960
+    400326: ID966
+    400328: ID970
+    400330: ID974
+    400332: ID978
+    400334: ID982
+    400336: ID986
+    400338: ID990
+    400340: ID994
+    400342: ID998
+    400344: instance_0
+    400346: instance_1
+    400348: instance_10
+    400350: instance_11
+    400352: instance_12
+    400354: instance_13
+    400356: instance_14
+    400358: instance_15
+    400360: instance_16
+    400362: instance_17
+    400364: instance_18
+    400366: instance_19
+    400368: instance_2
+    400370: instance_20
+    400372: instance_21
+    400374: instance_22
+    400376: instance_23
+    400378: instance_24
+    400380: instance_25
+    400382: instance_26
+    400384: instance_27
+    400386: instance_28
+    400388: instance_29
+    400390: instance_3
+    400392: instance_30
+    400394: instance_31
+    400396: instance_32
+    400398: instance_33
+    400400: instance_34
+    400402: instance_35
+    400404: instance_36
+    400406: instance_37
+    400408: instance_38
+    400410: instance_39
+    400412: instance_4
+    400414: instance_40
+    400416: instance_41
+    400418: instance_42
+    400420: instance_43
+    400422: instance_44
+    400424: instance_45
+    400426: instance_46
+    400428: instance_47
+    400430: instance_48
+    400432: instance_49
+    400434: instance_5
+    400436: instance_50
+    400438: instance_51
+    400440: instance_52
+    400442: instance_53
+    400444: instance_54
+    400446: instance_55
+    400448: instance_55 1
+    400450: instance_56
+    400452: instance_57
+    400454: instance_58
+    400456: instance_59
+    400458: instance_6
+    400460: instance_60
+    400462: instance_61
+    400464: instance_62
+    400466: instance_63
+    400468: instance_64
+    400470: instance_65
+    400472: instance_66
+    400474: instance_67
+    400476: instance_68
+    400478: instance_69
+    400480: instance_7
+    400482: instance_70
+    400484: instance_71
+    400486: instance_72
+    400488: instance_73
+    400490: instance_74
+    400492: instance_75
+    400494: instance_8
+    400496: instance_9
+    400498: PROFILE.dwg_2
+    400500: PROFILE.dwg_2 1
+    400502: PROFILE.dwg_4
+    400504: PROFILE.dwg_4 1
+    400506: PROFILE.dwg_4 2
+    400508: PROFILE.dwg_5
+    400510: PROFILE.dwg_5 1
+    400512: PROFILE.dwg_5 2
+    400514: PROFILE.dwg_5 3
+    400516: PROFILE.dwg_6
+    400518: PROFILE.dwg_6 1
+    400520: PROFILE.dwg_6 2
+    400522: PROFILE.dwg_6 3
+    400524: PROFILE.dwg_7
+    400526: PROFILE.dwg_7 1
+    400528: PROFILE.dwg_7 2
+    400530: PROFILE.dwg_7 3
+    400532: PROFILE.dwg_8
+    400534: PROFILE.dwg_8 1
+    400536: PROFILE.dwg_8 2
+    400538: PROFILE.dwg_8 3
+    400540: rail
+    400542: rail_1
+    400544: //RootNode
+    400546: ID1001
+    400548: ID1005
+    400550: ID1009
+    400552: ID1013
+    400554: ID1017
+    400556: ID1021
+    400558: ID1025
+    400560: ID1029
+    400562: ID1033
+    400564: ID1037
+    400566: ID1041
+    400568: ID1045
+    400570: ID1049
+    400572: ID1053
+    400574: ID1057
+    400576: ID1061
+    400578: ID1065
+    400580: ID1069
+    400582: ID1073
+    400584: ID511
+    400586: ID525
+    400588: ID549
+    400590: ID581
+    400592: ID585
+    400594: ID618
+    400596: ID618 1
+    400598: ID618 2
+    400600: ID618 3
+    400602: ID660
+    400604: ID666
+    400606: ID674
+    400608: ID682
+    400610: ID690
+    400612: ID698
+    400614: ID706
+    400616: ID710
+    400618: ID729
+    400620: ID759
+    400622: ID780
+    400624: ID780 1
+    400626: ID796
+    400628: ID796 1
+    400630: ID847
+    400632: ID847 1
+    400634: ID847 2
+    400636: ID847 3
+    400638: ID861
+    400640: ID861 1
+    400642: ID861 2
+    400644: ID861 3
+    400646: ID875
+    400648: ID875 1
+    400650: ID883
+    400652: ID883 1
+    400654: ID891
+    400656: ID891 1
+    400658: ID895
+    400660: ID895 1
+    400662: ID911
+    400664: ID911 1
+    400666: ID919
+    400668: ID919 1
+    400670: ID927
+    400672: ID927 1
+    400674: ID931
+    400676: ID931 1
+    400678: ID935
+    400680: ID935 1
+    400682: ID955
+    400684: ID961
+    400686: ID965
+    400688: ID969
+    400690: ID973
+    400692: ID977
+    400694: ID981
+    400696: ID985
+    400698: ID989
+    400700: ID993
+    400702: ID997
+    2300000: base57a
+    2300002: Component_1
+    2300004: Component_10
+    2300006: Component_10 1
+    2300008: Component_10 2
+    2300010: Component_10 3
+    2300012: Component_103
+    2300014: Component_13
+    2300016: Component_13 1
+    2300018: Component_13 2
+    2300020: Component_13 3
+    2300022: Component_15
+    2300024: Component_156
+    2300026: Component_19
+    2300028: Component_19 1
+    2300030: Component_2
+    2300032: Component_20
+    2300034: Component_21
+    2300036: Component_24
+    2300038: Component_25
+    2300040: Component_26
+    2300042: Component_29
+    2300044: Component_30
+    2300046: Component_30 1
+    2300048: Component_31
+    2300050: Component_31 1
+    2300052: Component_31 2
+    2300054: Component_31 3
+    2300056: Component_32
+    2300058: Component_33
+    2300060: Component_34
+    2300062: Component_35
+    2300064: Component_35 1
+    2300066: Component_38
+    2300068: Component_40
+    2300070: Component_41
+    2300072: Component_43
+    2300074: Component_44
+    2300076: Component_44 1
+    2300078: Component_6
+    2300080: Component_7
+    2300082: Component_7 1
+    2300084: Component_9
+    2300086: Component_9 1
+    2300088: Group_4
+    2300090: Group_4 1
+    2300092: ID104
+    2300094: ID117
+    2300096: ID125
+    2300098: ID133
+    2300100: ID141
+    2300102: ID149
+    2300104: ID157
+    2300106: ID165
+    2300108: ID173
+    2300110: ID181
+    2300112: ID189
+    2300114: ID197
+    2300116: ID205
+    2300118: ID213
+    2300120: ID221
+    2300122: ID229
+    2300124: ID237
+    2300126: ID245
+    2300128: ID253
+    2300130: ID284
+    2300132: ID290
+    2300134: ID298
+    2300136: ID306
+    2300138: ID314
+    2300140: ID322
+    2300142: ID375
+    2300144: ID383
+    2300146: ID391
+    2300148: ID399
+    2300150: ID665
+    2300152: ID671
+    2300154: ID679
+    2300156: ID687
+    2300158: ID695
+    2300160: ID703
+    2300162: ID785
+    2300164: ID785 1
+    2300166: ID801
+    2300168: ID801 1
+    2300170: ID880
+    2300172: ID880 1
+    2300174: ID888
+    2300176: ID888 1
+    2300178: ID91
+    2300180: ID916
+    2300182: ID916 1
+    2300184: ID924
+    2300186: ID924 1
+    2300188: ID960
+    2300190: PROFILE.dwg_2
+    2300192: PROFILE.dwg_2 1
+    2300194: PROFILE.dwg_4
+    2300196: PROFILE.dwg_4 1
+    2300198: PROFILE.dwg_4 2
+    2300200: PROFILE.dwg_5
+    2300202: PROFILE.dwg_5 1
+    2300204: PROFILE.dwg_5 2
+    2300206: PROFILE.dwg_5 3
+    2300208: PROFILE.dwg_6
+    2300210: PROFILE.dwg_6 1
+    2300212: PROFILE.dwg_6 2
+    2300214: PROFILE.dwg_6 3
+    2300216: PROFILE.dwg_7
+    2300218: PROFILE.dwg_7 1
+    2300220: PROFILE.dwg_7 2
+    2300222: PROFILE.dwg_7 3
+    2300224: PROFILE.dwg_8
+    2300226: PROFILE.dwg_8 1
+    2300228: PROFILE.dwg_8 2
+    2300230: PROFILE.dwg_8 3
+    2300232: rail
+    2300234: rail_1
+    2300236: //RootNode
+    2300238: ID660
+    2300240: ID666
+    2300242: ID674
+    2300244: ID682
+    2300246: ID690
+    2300248: ID698
+    2300250: ID780
+    2300252: ID780 1
+    2300254: ID796
+    2300256: ID796 1
+    2300258: ID875
+    2300260: ID875 1
+    2300262: ID883
+    2300264: ID883 1
+    2300266: ID911
+    2300268: ID911 1
+    2300270: ID919
+    2300272: ID919 1
+    2300274: ID955
+    3300000: base57a
+    3300002: Component_1
+    3300004: Component_10
+    3300006: Component_10 1
+    3300008: Component_10 2
+    3300010: Component_10 3
+    3300012: Component_103
+    3300014: Component_13
+    3300016: Component_13 1
+    3300018: Component_13 2
+    3300020: Component_13 3
+    3300022: Component_15
+    3300024: Component_156
+    3300026: Component_19
+    3300028: Component_19 1
+    3300030: Component_2
+    3300032: Component_20
+    3300034: Component_21
+    3300036: Component_24
+    3300038: Component_25
+    3300040: Component_26
+    3300042: Component_29
+    3300044: Component_30
+    3300046: Component_30 1
+    3300048: Component_31
+    3300050: Component_31 1
+    3300052: Component_31 2
+    3300054: Component_31 3
+    3300056: Component_32
+    3300058: Component_33
+    3300060: Component_34
+    3300062: Component_35
+    3300064: Component_35 1
+    3300066: Component_38
+    3300068: Component_40
+    3300070: Component_41
+    3300072: Component_43
+    3300074: Component_44
+    3300076: Component_44 1
+    3300078: Component_6
+    3300080: Component_7
+    3300082: Component_7 1
+    3300084: Component_9
+    3300086: Component_9 1
+    3300088: Group_4
+    3300090: Group_4 1
+    3300092: ID104
+    3300094: ID117
+    3300096: ID125
+    3300098: ID133
+    3300100: ID141
+    3300102: ID149
+    3300104: ID157
+    3300106: ID165
+    3300108: ID173
+    3300110: ID181
+    3300112: ID189
+    3300114: ID197
+    3300116: ID205
+    3300118: ID213
+    3300120: ID221
+    3300122: ID229
+    3300124: ID237
+    3300126: ID245
+    3300128: ID253
+    3300130: ID284
+    3300132: ID290
+    3300134: ID298
+    3300136: ID306
+    3300138: ID314
+    3300140: ID322
+    3300142: ID375
+    3300144: ID383
+    3300146: ID391
+    3300148: ID399
+    3300150: ID665
+    3300152: ID671
+    3300154: ID679
+    3300156: ID687
+    3300158: ID695
+    3300160: ID703
+    3300162: ID785
+    3300164: ID785 1
+    3300166: ID801
+    3300168: ID801 1
+    3300170: ID880
+    3300172: ID880 1
+    3300174: ID888
+    3300176: ID888 1
+    3300178: ID91
+    3300180: ID916
+    3300182: ID916 1
+    3300184: ID924
+    3300186: ID924 1
+    3300188: ID960
+    3300190: PROFILE.dwg_2
+    3300192: PROFILE.dwg_2 1
+    3300194: PROFILE.dwg_4
+    3300196: PROFILE.dwg_4 1
+    3300198: PROFILE.dwg_4 2
+    3300200: PROFILE.dwg_5
+    3300202: PROFILE.dwg_5 1
+    3300204: PROFILE.dwg_5 2
+    3300206: PROFILE.dwg_5 3
+    3300208: PROFILE.dwg_6
+    3300210: PROFILE.dwg_6 1
+    3300212: PROFILE.dwg_6 2
+    3300214: PROFILE.dwg_6 3
+    3300216: PROFILE.dwg_7
+    3300218: PROFILE.dwg_7 1
+    3300220: PROFILE.dwg_7 2
+    3300222: PROFILE.dwg_7 3
+    3300224: PROFILE.dwg_8
+    3300226: PROFILE.dwg_8 1
+    3300228: PROFILE.dwg_8 2
+    3300230: PROFILE.dwg_8 3
+    3300232: rail
+    3300234: rail_1
+    3300236: //RootNode
+    3300238: ID660
+    3300240: ID666
+    3300242: ID674
+    3300244: ID682
+    3300246: ID690
+    3300248: ID698
+    3300250: ID780
+    3300252: ID780 1
+    3300254: ID796
+    3300256: ID796 1
+    3300258: ID875
+    3300260: ID875 1
+    3300262: ID883
+    3300264: ID883 1
+    3300266: ID911
+    3300268: ID911 1
+    3300270: ID919
+    3300272: ID919 1
+    3300274: ID955
+    4300000: SketchUp
+    4300002: ID960
+    4300004: Component_1
+    4300006: Component_13
+    4300008: Component_103
+    4300010: Component_2
+    4300012: ID91
+    4300014: ID104
+    4300016: ID117
+    4300018: ID125
+    4300020: ID133
+    4300022: ID141
+    4300024: ID149
+    4300026: ID157
+    4300028: ID165
+    4300030: ID173
+    4300032: ID181
+    4300034: ID189
+    4300036: ID197
+    4300038: ID205
+    4300040: ID213
+    4300042: ID221
+    4300044: ID229
+    4300046: ID237
+    4300048: ID245
+    4300050: ID253
+    4300052: Component_26
+    4300054: Component_6
+    4300056: ID284
+    4300058: ID290
+    4300060: ID298
+    4300062: ID306
+    4300064: ID314
+    4300066: ID322
+    4300068: Component_7
+    4300070: Component_10
+    4300072: rail
+    4300074: Component_15
+    4300076: ID375
+    4300078: ID383
+    4300080: ID391
+    4300082: ID399
+    4300084: rail_1
+    4300086: Component_19
+    4300088: base57a
+    4300090: Component_20
+    4300092: Component_21
+    4300094: Component_19
+    4300096: Component_24
+    4300098: Component_10
+    4300100: Component_25
+    4300102: Component_7
+    4300104: Component_29
+    4300106: Component_30
+    4300108: Component_156
+    4300110: Component_33
+    4300112: Component_34
+    4300114: PROFILE.dwg_2
+    4300116: PROFILE.dwg_6
+    4300118: PROFILE.dwg_4
+    4300120: PROFILE.dwg_4
+    4300122: PROFILE.dwg_5
+    4300124: Component_38
+    4300126: ID665
+    4300128: ID671
+    4300130: ID679
+    4300132: ID687
+    4300134: ID695
+    4300136: ID703
+    4300138: Component_40
+    4300140: Component_41
+    4300142: Component_43
+    4300144: Group_4
+    4300146: ID801
+    4300148: Component_44
+    4300150: ID785
+    4300152: Component_31
+    4300154: Component_31
+    4300156: Component_32
+    4300158: PROFILE.dwg_7
+    4300160: PROFILE.dwg_8
+    4300162: Component_35
+    4300164: ID880
+    4300166: ID888
+    4300168: Component_9
+    4300170: ID916
+    4300172: ID924
+    4300174: ID955
+    4300176: ID660
+    4300178: ID666
+    4300180: ID674
+    4300182: ID682
+    4300184: ID690
+    4300186: ID698
+    4300188: ID796
+    4300190: ID780
+    4300192: ID875
+    4300194: ID883
+    4300196: ID911
+    4300198: ID919
+    6400000: base57a
+    6400002: Component_1
+    6400004: Component_10
+    6400006: Component_10 1
+    6400008: Component_10 2
+    6400010: Component_10 3
+    6400012: Component_103
+    6400014: Component_13
+    6400016: Component_13 1
+    6400018: Component_13 2
+    6400020: Component_13 3
+    6400022: Component_15
+    6400024: Component_156
+    6400026: Component_19
+    6400028: Component_19 1
+    6400030: Component_2
+    6400032: Component_20
+    6400034: Component_21
+    6400036: Component_24
+    6400038: Component_25
+    6400040: Component_26
+    6400042: Component_29
+    6400044: Component_30
+    6400046: Component_30 1
+    6400048: Component_31
+    6400050: Component_31 1
+    6400052: Component_31 2
+    6400054: Component_31 3
+    6400056: Component_32
+    6400058: Component_33
+    6400060: Component_34
+    6400062: Component_35
+    6400064: Component_35 1
+    6400066: Component_38
+    6400068: Component_40
+    6400070: Component_41
+    6400072: Component_43
+    6400074: Component_44
+    6400076: Component_44 1
+    6400078: Component_6
+    6400080: Component_7
+    6400082: Component_7 1
+    6400084: Component_9
+    6400086: Component_9 1
+    6400088: Group_4
+    6400090: Group_4 1
+    6400092: ID104
+    6400094: ID117
+    6400096: ID125
+    6400098: ID133
+    6400100: ID141
+    6400102: ID149
+    6400104: ID157
+    6400106: ID165
+    6400108: ID173
+    6400110: ID181
+    6400112: ID189
+    6400114: ID197
+    6400116: ID205
+    6400118: ID213
+    6400120: ID221
+    6400122: ID229
+    6400124: ID237
+    6400126: ID245
+    6400128: ID253
+    6400130: ID284
+    6400132: ID290
+    6400134: ID298
+    6400136: ID306
+    6400138: ID314
+    6400140: ID322
+    6400142: ID375
+    6400144: ID383
+    6400146: ID391
+    6400148: ID399
+    6400150: ID665
+    6400152: ID671
+    6400154: ID679
+    6400156: ID687
+    6400158: ID695
+    6400160: ID703
+    6400162: ID785
+    6400164: ID785 1
+    6400166: ID801
+    6400168: ID801 1
+    6400170: ID880
+    6400172: ID880 1
+    6400174: ID888
+    6400176: ID888 1
+    6400178: ID91
+    6400180: ID916
+    6400182: ID916 1
+    6400184: ID924
+    6400186: ID924 1
+    6400188: ID960
+    6400190: PROFILE.dwg_2
+    6400192: PROFILE.dwg_2 1
+    6400194: PROFILE.dwg_4
+    6400196: PROFILE.dwg_4 1
+    6400198: PROFILE.dwg_4 2
+    6400200: PROFILE.dwg_5
+    6400202: PROFILE.dwg_5 1
+    6400204: PROFILE.dwg_5 2
+    6400206: PROFILE.dwg_5 3
+    6400208: PROFILE.dwg_6
+    6400210: PROFILE.dwg_6 1
+    6400212: PROFILE.dwg_6 2
+    6400214: PROFILE.dwg_6 3
+    6400216: PROFILE.dwg_7
+    6400218: PROFILE.dwg_7 1
+    6400220: PROFILE.dwg_7 2
+    6400222: PROFILE.dwg_7 3
+    6400224: PROFILE.dwg_8
+    6400226: PROFILE.dwg_8 1
+    6400228: PROFILE.dwg_8 2
+    6400230: PROFILE.dwg_8 3
+    6400232: rail
+    6400234: rail_1
+    6400236: //RootNode
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
