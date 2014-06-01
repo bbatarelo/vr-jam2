@@ -10,26 +10,31 @@ namespace HutongGames.PlayMaker.Actions
 	{
 		private bool gotMessage = false;
 		private Dictionary<String, String> eventsMap = new Dictionary<string, string> ();
-		Timer timer = new Timer (1000);
 
 		public FsmString PendingEvent;
+
+		public bool triggerRcvd;
 		
 		public override void Reset()
 		{
-			eventsMap = new Dictionary<string, string> ();
-			gotMessage = false;
-			timer.Stop();
-			timer = new Timer (1000);
 		}
 		
 		public override void OnEnter()
 		{
 			initMap ();
-			timer.Elapsed += onTick;
-			timer.Start();
+			var t = new Timer (1000);
+			t.Elapsed += onTick;
+//			t.Start();
+
+//			StartCoroutine("tickCoroutine");
 			
 //			while (!gotMessage) {
 //			}
+		}
+
+		void Start()
+		{
+
 		}
 
 		private void onTick(System.Object source, ElapsedEventArgs e)
@@ -56,7 +61,7 @@ namespace HutongGames.PlayMaker.Actions
 						gotMessage = true;
 						PendingEvent = value;
 //						Console.Out.WriteLine ("Got message for event: " + value);
-						Finish();
+//						Finish();
 						return;
 					}
 				}
@@ -64,6 +69,21 @@ namespace HutongGames.PlayMaker.Actions
 //			Console.Out.WriteLine ("No message");
 			((Timer)source).Enabled = true;
 		}
+
+
+//		IEnumerator tickCoroutine()
+//		{
+//			while( true )
+//			{
+//
+//				// do stuff here
+//				Debug.Log( "some string in the console");
+//
+//				// done checking, now wait 0.1 seconds
+//				yield return new WaitForSeconds(0.1f);
+//
+//			}
+//		}
 
 		private void initMap()
 		{
