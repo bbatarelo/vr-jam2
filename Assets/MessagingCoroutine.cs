@@ -78,7 +78,7 @@ public class MessagingCoroutine : MonoBehaviour {
 	private Dictionary<String, String> initMap()
 	{
 		Dictionary<String, String> eventsMap = new Dictionary<string, string> ();;
-		eventsMap.Add("001initialNarration|001interruptPrompt", "event1");
+		eventsMap.Add("001initialNarration|002interruptPrompt", "event1");
 		eventsMap.Add("003noInterruptResponse|004HolmesReadsWatson", "event2");
 		eventsMap.Add("003yesInterruptResponse|004HolmesReadsWatson", "event2");
 		eventsMap.Add("004HolmesReadsWatson|005WatsonSitsByFire", "event3");
